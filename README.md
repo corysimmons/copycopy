@@ -11,7 +11,7 @@
 `$ copycopy <input glob pattern> <output directory>`
 
 ### Example
-`$ copycopy 'assets/src/css/**/*' assets/dist/css`
+`$ copycopy 'assets/src/img/**/*' assets/dist/img`
 
 ### Contribute
 - `npm install`
