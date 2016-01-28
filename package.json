@@ -1,0 +1,33 @@
+{
+  "bin": {
+    "copycopy": "./copycopy.js"
+  },
+  "dependencies": {
+    "fs-extra": "^0.26.5",
+    "glob": "^6.0.4",
+    "meow": "^3.7.0"
+  },
+  "description": "CLI for copying files around. Handy for npm run scripts.",
+  "devDependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-preset-es2015": "^6.3.13"
+  },
+  "github": "https://github.com/corysimmons/copycopy",
+  "keywords": [
+    "cli",
+    "copy",
+    "files"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "corysimmons",
+      "email": "cory@launchboxhq.com"
+    }
+  ],
+  "name": "copycopy",
+  "scripts": {
+    "start": "babel -w ./lib/copycopy.js --out-file copycopy.js --presets es2015"
+  },
+  "version": "0.0.2"
+}
