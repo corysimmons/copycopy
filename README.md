@@ -5,6 +5,8 @@
 </p>
 
 ### Installation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/corysimmons/copycopy.svg)](https://greenkeeper.io/)
 `npm install --save-dev copycopy`
 
 ### Usage
