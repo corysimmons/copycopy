@@ -3,9 +3,9 @@
     "copycopy": "./copycopy.js"
   },
   "dependencies": {
-    "fs-extra": "^0.26.5",
-    "glob": "^6.0.4",
-    "meow": "^3.7.0"
+    "fs-extra": "^4.0.3",
+    "glob": "^7.1.2",
+    "meow": "^4.0.0"
   },
   "description": "CLI for copying files around. Handy for npm run scripts.",
   "devDependencies": {
